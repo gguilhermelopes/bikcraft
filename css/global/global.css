@@ -29,6 +29,6 @@ img {
   display: block;
 }
 
-img [scr$=".jpg"] {
+img[src$=".jpg"] {
   border-radius: 4px;
 }
