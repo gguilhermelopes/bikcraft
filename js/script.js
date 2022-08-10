@@ -61,6 +61,7 @@ function trocarImagem(event) {
 
 function eventosGaleria(img) {
   img.addEventListener("click", trocarImagem);
+  img.addEventListener("click touchstart", trocarImagem);
 }
 
 galeria.forEach(eventosGaleria);
