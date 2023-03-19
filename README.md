@@ -23,15 +23,15 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 * Você instalou a versão mais recente de `Node.js`.
 
-## 🚀 Instalando Guess My Number
+## 🚀 Instalando Bikcraft
 
-Para instalar o Guess My Number, siga estas etapas:
+Para instalar o Bikcraft, siga estas etapas:
 
 * Clone esse repositório com `git clone https://github.com/gguilhermelopes/bikcraft`
 * Utilze uma extensão como a Live Server do VSCode em sua IDE para melhor visualização do site localmente
 
-## ☕ Usando Guess My Number
+## ☕ Usando Bikcraft
 
-Para usar Guess My Number, siga estas etapas:
+Para usar Bikcraft, siga estas etapas:
 
 * Abra o seu Live Server!
